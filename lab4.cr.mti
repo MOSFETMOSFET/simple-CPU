@@ -1,0 +1,115 @@
+C:/Users/dell/Desktop/johnny/lab4_VHDL_file/GPIO.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/GPIO.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity GPIO
+-- Compiling architecture behave of GPIO
+
+} {} {}} C:/Users/dell/Desktop/johnny/lab4_VHDL_file/computer.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/computer.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity computer
+-- Compiling architecture behave of computer
+
+} {} {}} C:/Users/dell/Desktop/johnny/lab4_VHDL_file/cpu.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/cpu.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cpu
+-- Compiling architecture behave of cpu
+
+} {} {}} C:/Users/dell/Desktop/johnny/lab4_VHDL_file/ram.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/ram.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ram
+-- Compiling architecture SYN of ram
+
+} {} {}} C:/Users/dell/Desktop/johnny/lab4_VHDL_file/fsm_controller.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/fsm_controller.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity fsm_controller
+-- Compiling architecture structure of fsm_controller
+
+} {} {}} C:/Users/dell/Desktop/johnny/lab4_VHDL_file/assembly_instruction.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/assembly_instruction.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package assembly_instructions
+
+} {} {}} C:/Users/dell/Desktop/johnny/lab4_VHDL_file/clock_divider.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/clock_divider.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity divider
+-- Compiling architecture data_flow of divider
+
+} {} {}} C:/Users/dell/Desktop/johnny/lab4_VHDL_file/datapath.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/datapath.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity datapath
+-- Compiling architecture data_flow of datapath
+
+} {} {}} C:/Users/dell/Desktop/johnny/lab4_VHDL_file/fake_memory.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/fake_memory.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package assembly_instructions
+-- Compiling architecture fake of ram
+-- Loading entity ram
+
+} {} {}} C:/Users/dell/Desktop/johnny/lab4_VHDL_file/RF.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/RF.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity RF
+-- Compiling architecture data_flow of RF
+
+} {} {}} C:/Users/dell/Desktop/johnny/lab4_VHDL_file/ALU.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/ALU.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity ALU
+-- Compiling architecture structure of ALU
+
+} {} {}} C:/Users/dell/Desktop/johnny/lab4_VHDL_file/testbench_entity.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/testbench_entity.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test
+
+} {} {}} C:/Users/dell/Desktop/johnny/lab4_VHDL_file/test_computer.vhd {1 {vcom -work work -2002 -explicit C:/Users/dell/Desktop/johnny/lab4_VHDL_file/test_computer.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling architecture test_computer of test
+-- Loading entity test
+
+} {} {}}
